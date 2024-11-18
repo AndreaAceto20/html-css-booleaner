@@ -1,16 +1,12 @@
-
-
-
 header {
     background-image: url(../img/pattern.png);
-    background-repeat: no-repeat;
     background-size: contain;
     background-color: #4EA1FF;
  }
 
 #logo{
     width: 150px;
-    height: auto;
+    height: 50px;
 
 }
 
@@ -20,7 +16,7 @@ header {
 
 #data{
     font-size: 13px;
-
+    margin-top: 0px;
 }
 
 #sottotilo-foto{
@@ -37,4 +33,31 @@ header {
 
 .azzurro{
     background-color: #B1E6F2;
+}
+
+#prima-foto{
+    background-image: url(./../img/monitor.jpg);
+    width: 150px;
+    height: 130px;
+}
+
+#seconda-foto{
+    background-image: url(./../img/graph.jpg);
+    width: 150px;
+    height: 130px;
+    margin-top: 15px;
+}
+
+footer{
+    margin-top: 30px;
+}
+
+.testo{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+table{
+    margin-top: 30px;
+    margin-bottom: 30px;
 }

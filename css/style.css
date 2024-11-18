@@ -1,5 +1,5 @@
 body{
-    
+   
 }
 
 
@@ -8,7 +8,7 @@ header {
     background-repeat: no-repeat;
     background-size: contain;
     background-color: #4EA1FF;
-    }
+ }
 
 #logo{
     width: 150px;
@@ -16,6 +16,10 @@ header {
 
 }
 
--grigio{
+.grigio{
     color: #808080;
+}
+
+#data{
+    font-size: 13px;
 }

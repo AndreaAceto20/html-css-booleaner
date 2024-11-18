@@ -3,26 +3,21 @@ header {
     background-size: contain;
     background-color: #4EA1FF;
  }
-
 #logo{
     width: 150px;
     height: 50px;
 
 }
-
 .grigio{
     color: #808080;
 }
-
 #data{
     font-size: 13px;
     margin-top: 0px;
 }
-
 #sottotilo-foto{
     font-size: 8px;
 }
-
 .ultima-colonna{
     width: 55%;
 }
@@ -30,33 +25,27 @@ header {
     
     background-color: #24A7E3;
 }
-
 .azzurro{
     background-color: #B1E6F2;
 }
-
 #prima-foto{
     background-image: url(./../img/monitor.jpg);
     width: 150px;
     height: 130px;
 }
-
 #seconda-foto{
     background-image: url(./../img/graph.jpg);
     width: 150px;
     height: 130px;
     margin-top: 15px;
 }
-
 footer{
     margin-top: 30px;
 }
-
 .testo{
     margin-top: 30px;
     margin-bottom: 30px;
 }
-
 table{
     margin-top: 30px;
     margin-bottom: 30px;

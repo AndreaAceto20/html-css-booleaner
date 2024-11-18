@@ -1,0 +1,21 @@
+body{
+    
+}
+
+
+header {
+    background-image: url(../img/pattern.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #4EA1FF;
+    }
+
+#logo{
+    width: 150px;
+    height: auto;
+
+}
+
+-grigio{
+    color: #808080;
+}

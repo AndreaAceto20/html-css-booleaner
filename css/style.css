@@ -1,6 +1,4 @@
-body{
-   
-}
+
 
 
 header {
@@ -22,4 +20,21 @@ header {
 
 #data{
     font-size: 13px;
+
+}
+
+#sottotilo-foto{
+    font-size: 8px;
+}
+
+.ultima-colonna{
+    width: 55%;
+}
+#blu{
+    
+    background-color: #24A7E3;
+}
+
+.azzurro{
+    background-color: #B1E6F2;
 }
